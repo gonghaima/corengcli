@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="corengcli" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\temp\\temp\\1\\WebApplication2\\WebApplication2\\obj\\Release\\netcoreapp1\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

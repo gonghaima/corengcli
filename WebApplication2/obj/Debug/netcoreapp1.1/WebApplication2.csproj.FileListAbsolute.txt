@@ -1,0 +1,9 @@
+D:\temp\temp\1\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.deps.json
+D:\temp\temp\1\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.runtimeconfig.json
+D:\temp\temp\1\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.runtimeconfig.dev.json
+D:\temp\temp\1\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.csprojResolveAssemblyReference.cache
+D:\temp\temp\1\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.AssemblyInfo.cs
+D:\temp\temp\1\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.dll
+D:\temp\temp\1\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.pdb
+D:\temp\temp\1\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.dll
+D:\temp\temp\1\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.pdb
